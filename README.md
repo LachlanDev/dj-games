@@ -1,9 +1,7 @@
-<p align="center"> </p>
-<h1>
+
 ```
 npm i dj-games
 ```
-</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Documentation-No-amiajokegreen.svg?style=flat-square" /></a>
  <a href="https://www.npmjs.com/package/dj-games"><img src="https://nodei.co/npm/dj-games.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
