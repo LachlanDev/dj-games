@@ -71,5 +71,3 @@ Discord server:
 <a href="https://discord.gg/w6TuebW9Ys/"><img src="http://agencyesports.com/assets/img/join-discord.png"/></a>
 
 
-
-
