@@ -19,3 +19,6 @@ client.on('message', async (message) => {
 
 client.login('DISCORD_BOT_TOKEN');
 ```
+Support ❔
+<a href="https://discord.gg/ANzBrkcXZy"><img src="https://icon-library.com/images/discord-app-icon/discord-app-icon-15.jpg"/></a>
+
