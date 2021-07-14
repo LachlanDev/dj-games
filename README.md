@@ -2,10 +2,8 @@
    style="margin-bottom:-6px" src="" /></p>
 <h1 align="center">dj-games </h1>
 <p align="center">
-   <a href="https://www.npmjs.com/package/dj-games"><img src="" /></a>
-   <img src="https://img.shields.io/badge/Documentation-No-amiajokegreen.svg?style=flat-square" /></a>
-   
-   <a href="https://www.npmjs.com/package/dj-games"><img src="https://nodei.co/npm/dj-games.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
+<img src="https://img.shields.io/badge/Documentation-No-amiajokegreen.svg?style=flat-square" /></a>
+ <a href="https://www.npmjs.com/package/dj-games"><img src="https://nodei.co/npm/dj-games.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
 </p>
 
 ## What is dj-games?
@@ -29,6 +27,12 @@ client.on('message', async (message) => {
 
 client.login('DISCORD_BOT_TOKEN');
 ```
+## Contributing 🤝
+- Contributions, issues and feature requests are welcome!
+- Feel free to check **[issues page](https://github.com/corropted/dj-games/issues)**.
+
+## Developers 👨‍💻
+- **[corrupted#4444](https://github.com/corropted)**
 For Support Join discord
 <a href="https://discord.gg/ANzBrkcXZy"><img src="https://icon-library.com/images/discord-app-icon/discord-app-icon-15.jpg"/></a>
 
