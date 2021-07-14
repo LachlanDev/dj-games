@@ -28,8 +28,7 @@ client.login('DISCORD_BOT_TOKEN');
 ```
 
 ## Rock Paper scissor
-```
-RockPaperScissors
+```js
 const djgames = require('dj-games')
 const RockPaperScissors = new djgames.rps()
 rps.startGame(message
