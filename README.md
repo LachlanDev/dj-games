@@ -4,7 +4,7 @@
 <p align="center">
    <a href="https://www.npmjs.com/package/dj-games"><img src="" /></a>
    <img src="https://img.shields.io/badge/Documentation-No-amiajokegreen.svg?style=flat-square" /></a>
-   <a href="https://github.com/corropted/blob/main/LICENSE"><img src="https://averylongdomainyesitisverylongasyoucanseedudesee.tk/static/weky-license.svg" /></a>
+   <a href="https://github.com/corropted/blob/main/LICENSE"><img src="https://averylongdomainyesitisverylongasyoucanseedudesee.tk/static/dj-games-license.svg" /></a>
    <br>
    <a href="https://www.npmjs.com/package/dj-games"><img src="https://nodei.co/npm/dj-games.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
 </p>
@@ -16,7 +16,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const djsGames = require('djs-games')
-const fasttyper = new djsGames.FastTyper()
+const fasttyper = new djsGames.fasttyper()
 
 client.on('ready', async () => {
 	console.log(`Logged in as ${client.user.tag}`);
@@ -24,7 +24,7 @@ client.on('ready', async () => {
 
 client.on('message', async (message) => {
 	if(message.content === '!fasttypet') {
-		FastTyper.startGame(message)
+		fasttyper.startGame(message)
           }
 });
 
