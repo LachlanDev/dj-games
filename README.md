@@ -4,8 +4,7 @@
 <p align="center">
    <a href="https://www.npmjs.com/package/dj-games"><img src="" /></a>
    <img src="https://img.shields.io/badge/Documentation-No-amiajokegreen.svg?style=flat-square" /></a>
-   <a href="https://github.com/corropted/blob/main/LICENSE"><img src="https://averylongdomainyesitisverylongasyoucanseedudesee.tk/static/dj-games-license.svg" /></a>
-   <br>
+   
    <a href="https://www.npmjs.com/package/dj-games"><img src="https://nodei.co/npm/dj-games.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
 </p>
 
