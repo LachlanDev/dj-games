@@ -1,8 +1,8 @@
-p align="center"><img width="100px"
+<p align="center"><img width="100px"
    style="margin-bottom:-6px" src="https://cdn.discordapp.com/avatars/809496186905165834/7dbf02cb782c7111b817f329cac0257a.png" /></p>
 <h1 align="center">Weky</h1>
 <p align="center">
-   <a href="https://www.npmjs.com/package/dj-games"><img src="https://img.shields.io/npm/v/weky.svg?style=flat-square" /></a>
+   <a href="https://www.npmjs.com/package/dj-games"><img src="" /></a>
    <img src="https://img.shields.io/badge/Documentation-Yes-amiajokegreen.svg?style=flat-square" /></a>
    <a href="https://github.com/corropted/blob/main/LICENSE"><img src="https://averylongdomainyesitisverylongasyoucanseedudesee.tk/static/weky-license.svg" /></a>
    <br>
