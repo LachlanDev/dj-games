@@ -35,7 +35,7 @@ client.login('DISCORD_BOT_TOKEN');
 ## Support
 <br>
 Discord server:
-<a href="https://discord.gg/w6TuebW9Ys/"><img src="https://icon-library.com/images/discord-app-icon/discord-app-icon-15.jpg"/></a>
+<a href="https://discord.gg/w6TuebW9Ys/"><img src="http://agencyesports.com/assets/img/join-discord.png"/></a>
 
 
 
