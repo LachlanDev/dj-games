@@ -14,7 +14,7 @@ npm i dj-games
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const djgames = require('dj-games')
-const RPS = new djGames.RPS()
+const RPS = new dj-games.RPS()
 
 client.on('ready', async () => {
 	console.log(`Logged in as ${client.user.tag}`);
