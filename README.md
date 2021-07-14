@@ -35,7 +35,7 @@ client.login('DISCORD_BOT_TOKEN');
 - **[corrupted#4444](https://github.com/corropted)**
 <br>
 ## Support Join discord
-<a href="https://discord.gg/ANzBrkcXZy"><img src="https://icon-library.com/images/discord-app-icon/discord-app-icon-15.jpg"/></a>
+<a href="https://discord.gg/"><img src="https://icon-library.com/images/discord-app-icon/discord-app-icon-15.jpg"/></a>
 
 
 
