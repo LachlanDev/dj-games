@@ -1,5 +1,4 @@
-<p align="center"><img width="100px"
-   style="margin-bottom:-6px" src="" /></p>
+<p align="center"> </p>
 <h1 align="center">dj-games </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Documentation-No-amiajokegreen.svg?style=flat-square" /></a>
