@@ -7,7 +7,7 @@
 
 ## What is dj-games?
 - A fun npm package to play games within Discord!
-## Example ✏️
+## fasttyper ✏️
 ```js
 const Discord = require('discord.js');
 const client = new Discord.Client();
@@ -25,6 +25,14 @@ client.on('message', async (message) => {
 });
 
 client.login('DISCORD_BOT_TOKEN');
+```
+
+## Rock Paper scissor
+```
+RockPaperScissors
+const djgames = require('dj-games')
+const RockPaperScissors = new djgames.rps()
+rps.startGame(message
 ```
 ## Contributing 🤝
 - Contributions, issues and feature requests are welcome!
