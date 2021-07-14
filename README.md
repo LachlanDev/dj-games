@@ -4,13 +4,12 @@ npm i dj-games
 ```
 <p align="center">
 <img src="https://img.shields.io/badge/Documentation-No-amiajokegreen.svg?style=flat-square" /></a>
-<br>
  <a href="https://www.npmjs.com/package/dj-games"><img src="https://nodei.co/npm/dj-games.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
 </p>
 
 ## What is dj-games?
 - A fun npm package to play games within Discord!
-## Rock Paper  Scissor ✏️
+## fasttyper ✏️
 ```js
 const Discord = require('discord.js');
 const client = new Discord.Client();
