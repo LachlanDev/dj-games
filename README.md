@@ -13,27 +13,51 @@ npm i dj-games
 ```js
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const djsGames = require('djs-games')
-const fasttyper = new djsGames.fasttyper()
+const djgames = require('dj-games')
+const RPS = new djGames.RPS()
 
 client.on('ready', async () => {
 	console.log(`Logged in as ${client.user.tag}`);
 });
 
 client.on('message', async (message) => {
-	if(message.content === '!fasttypet') {
-		fasttyper.startGame(message)
+	if(message.content === '!RockPaperScissors') {
+ RPS.startGame(message)
           }
 });
 
 client.login('DISCORD_BOT_TOKEN');
 ```
 
-## Rock Paper scissor
+## Tic Tac Toe
 ```js
-const djgames = require('dj-games')
-const RockPaperScissors = new djgames.rps()
-rps.startGame(message
+const Discord = require('discord.js');
+const client = new Discord.Client();
+const tttgame = require('dj-games')
+const opponent = message.mentions.users.first();
+if (!opponent) return 
+
+client.on('ready', async () => {
+	console.log(`Logged in as ${client.user.tag}`);
+});
+
+client.on('message', async (message) => {
+	if(message.content === '!ttt') {
+ message.channel.send('**Mention someone**);
+ 
+const game = new tttgame({
+    message: message,
+    opponent: opponent,
+    xColor: 'red'
+    oColor: 'blue',
+    xEmoji: '❌', 
+    oEmoji: '0️⃣'
+})
+game.start()
+          }
+});
+
+client.login('DISCORD_BOT_TOKEN');
 ```
 ## Contributing 🤝
 - Contributions, issues and feature requests are welcome!
