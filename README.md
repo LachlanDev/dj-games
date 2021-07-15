@@ -6,12 +6,10 @@ npm i dj-games
  <a href="https://www.npmjs.com/package/dj-games"><img src="https://nodei.co/npm/dj-games.png?downloadRank=true&downloads=true&downloadRank=true&stars=true" /></a>
 </p>
 
-<br>
 ## What is dj-games?
 - A fun npm package to play games within discord
 
-<br>
-## RockPaperScissors
+##  Rock Paper scissor 
 
 ```js
 const Discord = require('discord.js');
