@@ -36,7 +36,6 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const tttgame = require('dj-games')
 const opponent = message.mentions.users.first();
-if (!opponent) return 
 
 
 client.on('ready', async () => {
@@ -45,9 +44,9 @@ client.on('ready', async () => {
 
 client.on('message', async (message) => {
 	if(message.content === '!ttt') {
- message.channel.send('**Mention someone**);
+if (!opponent) return message.channel.send('**Mention someone**);
  
-const game = new tttgame({
+const ttt = new tttgame({
     message: message,
     opponent: opponent,
     xColor: 'red'
@@ -55,7 +54,7 @@ const game = new tttgame({
     xEmoji: '❌', 
     oEmoji: '0️⃣'
 })
-game.start()
+ttt.start()
           }
 });
 
@@ -76,9 +75,10 @@ client.on('message', async (message) => {
 	if(message.content === '!typer') {
 typer.startGame(message)
 
+});
 client.login ('token');
 
-});
+
 ```
 
 ## Contributing
@@ -91,3 +91,7 @@ client.login ('token');
 <br>
 Discord server:
 <a href="https://discord.gg/w6TuebW9Ys/"><img src="http://agencyesports.com/assets/img/join-discord.png"/></a>
+
+
+
+
