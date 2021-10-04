@@ -83,7 +83,7 @@ client.login ('token');
 
 ## Contributing
 - Contributions, issues and feature requests are welcome!
-- if you foundd y bug/issues you can report it from **[issues page](https://github.com/corropted/dj-games/issues)**.
+- if you found any bug/issues you can report it from **[issues page](https://github.com/corropted/dj-games/issues)**.
 
 ## Developers
 - **[corrupted#4444](https://github.com/corropted)**
